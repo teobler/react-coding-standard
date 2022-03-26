@@ -31,3 +31,9 @@
 - [目录规范](目录规范.md)
 - 测试规范
 - lint 规范
+
+## Creative Commons
+本仓库的所有文章均采用 [CC BY-NC 4.0协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 进行授权。
+
+## License
+@ 2021 This code is distributed under the MIT license. See LICENSE in this directory.
