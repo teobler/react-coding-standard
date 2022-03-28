@@ -30,7 +30,7 @@
 - [组件规范](组件规范.md)
 - [目录规范](目录规范.md)
 - [测试规范](测试规范.md)
-- lint 规范
+- [lint 规范](lint规范.md)
 
 ## Creative Commons
 本仓库的所有文章均采用 [CC BY-NC 4.0协议](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 进行授权。
